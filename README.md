@@ -13,7 +13,7 @@ Setup Process:
 ==============================
 
 Step 1: Open your command-line and browse to the folder where you extracted the zip file.
- 
+
 Step 2: You're left with a choice.
 If you prefer to use IntelliJ:
 1. Open IDEA, and import project.
