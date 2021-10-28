@@ -9,7 +9,7 @@ Note also that the patches are built against "un-renamed" MCP source code (aka
 SRG Names) - this means that you will not be able to read them directly against
 normal code.
 
-Setup Process:
+Setup Process: 
 ==============================
 
 Step 1: Open your command-line and browse to the folder where you extracted the zip file.
